@@ -38,9 +38,19 @@ Designed an interactive dashboard to explore:
 
 ---
 
+### Key Insights
+Data Scientists have the highest average salary across companies.
+New York has the highest number of job postings.
+Large companies ($1B+) offer higher average salaries.
+
+---
+
 ### 💡 Key Takeaways
 - Strengthened understanding of **data cleaning** and **data modeling workflow**  
-- Built practical skills in **Power Query**, **DAX**, and **visual storytelling with Power BI**  
- 
-Junior Data Analyst | Power BI • Power Query • DAX • Excel  
-📧 [GitHub](https://github.com/doaahilal93-debug)
+- Built practical skills in **Power Query**, **DAX**, and **visual storytelling with Power BI**
+
+---
+
+## Dashboard Preview
+![image](Capture.png)
+
