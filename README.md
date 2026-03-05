@@ -52,5 +52,5 @@ Large companies ($1B+) offer higher average salaries.
 ---
 
 ## Dashboard Preview
-![image](Capture.png)
+![image](Capture.PNG)
 
